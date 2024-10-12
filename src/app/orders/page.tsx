@@ -1,11 +1,13 @@
 import React from 'react'
 
-const page = () => {
+const OrdersPage
+ = () => {
   return (
     <div>
-      <h1>Alicia</h1>
+      oder
     </div>
   )
 }
 
-export default page
+export default OrdersPage
+
